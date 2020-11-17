@@ -52,16 +52,16 @@ const Footer = () => {
                         <SocialLogo to='/' onClick={toggleHome}>₹uppes</SocialLogo>
                         <WebsiteRights>₹uppes &copy; {new Date().getFullYear()} All rights reserved</WebsiteRights>
                         <SocialIcons>
-                            <SocialIconLink href='/' target="_blank" arial-label="Facebook">
+                            <SocialIconLink href='https://www.facebook.com/profile.php?id=100003563442135' target="_blank" arial-label="Facebook">
                                 <FaFacebook />
                             </SocialIconLink>
-                            <SocialIconLink href='/' target="_blank" arial-label="Instagram">
+                            <SocialIconLink href='https://www.instagram.com/srpsatish/' target="_blank" arial-label="Instagram">
                                 <FaInstagram />
                             </SocialIconLink>
-                            <SocialIconLink href='/' target="_blank" arial-label="Twitter">
+                            <SocialIconLink href='https://twitter.com/srpsatish' target="_blank" arial-label="Twitter">
                                 <FaTwitter />
                             </SocialIconLink>
-                            <SocialIconLink href='/' target="_blank" arial-label="Linkedin">
+                            <SocialIconLink href='https://www.linkedin.com/in/srpsatish/' target="_blank" arial-label="Linkedin">
                                 <FaLinkedin />
                             </SocialIconLink>
                             <SocialIconLink href='/' target="_blank" arial-label="Youtube">
